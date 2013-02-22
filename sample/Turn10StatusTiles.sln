@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiles", "Tiles\Tiles.csproj", "{DCA65CE4-13D5-4FEA-9FCB-C4BB698A4BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileData", "TileData\TileData.csproj", "{C8B5560C-DFDD-4E6B-9AFF-7FCCEEFF8527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA65CE4-13D5-4FEA-9FCB-C4BB698A4BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA65CE4-13D5-4FEA-9FCB-C4BB698A4BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA65CE4-13D5-4FEA-9FCB-C4BB698A4BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA65CE4-13D5-4FEA-9FCB-C4BB698A4BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B5560C-DFDD-4E6B-9AFF-7FCCEEFF8527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B5560C-DFDD-4E6B-9AFF-7FCCEEFF8527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B5560C-DFDD-4E6B-9AFF-7FCCEEFF8527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B5560C-DFDD-4E6B-9AFF-7FCCEEFF8527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
