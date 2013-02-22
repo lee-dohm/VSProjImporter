@@ -13,3 +13,7 @@ VSProjImporter is only compatible with Sublime Text 2 at this time.  We have pla
 # Usage
 
 # Information
+
+Source: https://github.com/lee-dohm/VSProjImporter
+
+Authors: [Lee Dohm](https://github.com/lee-dohm/), [Lifted Studios](https://github.com/lifted-studios/)
